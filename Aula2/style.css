@@ -1,0 +1,15 @@
+#nomeCachorro {
+    color: #ffcc00;
+}
+
+button {
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    background-color: #f7764f;
+    border: none;
+}
+
+.bg-grey {
+    background-color: #cfcfcf;
+}
