@@ -86,7 +86,7 @@ li {
 }
 
 .index-txt p {
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: #000;
 }
 
@@ -115,11 +115,14 @@ h2 {
 .project-item {
     width: 350px;
     height: auto;
+    text-align: center;
 }
 
 .project-item img{
     width: 350px;
     height: 320px;
+    margin-bottom: 0.5em;
+    border-radius: 30px;
 }
 
 .stacks-list {
@@ -128,8 +131,8 @@ h2 {
 }
 
 .stacks-container img {
-    width: 250px;
-    height: 250px;
+    width: 230px;
+    height: 230px;
 }
 
 .contact-container {
@@ -200,4 +203,9 @@ hr {
     border: solid 1px #7B0000;
     color: #7B0000;
     cursor: pointer;
+}
+
+.contact-forms button:hover {
+    background-color: #7B0000;
+    color: #fff;
 }
