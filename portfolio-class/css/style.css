@@ -8,12 +8,6 @@ body {
     background-color: #D9D9D9;
 }
 
-.header {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-
 nav {
     width: 90%;
     min-height: 12vh;
