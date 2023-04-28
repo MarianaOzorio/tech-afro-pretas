@@ -1,0 +1,13 @@
+header {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1em;
+}
+
+.headerIcon {
+    width: 60px;
+    height: 80px;
+}
