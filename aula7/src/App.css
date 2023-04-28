@@ -1,0 +1,9 @@
+.cards-container {
+    width: 95%;
+    min-height: 85vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+}
