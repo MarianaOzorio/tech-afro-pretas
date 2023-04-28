@@ -1,7 +1,11 @@
 Exercício
+
 Construir uma página baseada no protótipo:
 
-![prototipo-portfolio](https://user-images.githubusercontent.com/66336900/235182399-133ff598-41c9-4a68-a88d-dbc21a098f4d.png)
+![image](https://user-images.githubusercontent.com/66336900/235184652-b3cbc8bd-b09e-40bc-8c88-896b71e9ff8a.png)
+![image](https://user-images.githubusercontent.com/66336900/235184847-d56844b4-0d96-44d5-915c-584aea9e0674.png)
+![image](https://user-images.githubusercontent.com/66336900/235184964-b76b4130-a62f-40e2-ac43-9096bbf6354b.png)
+![image](https://user-images.githubusercontent.com/66336900/235185100-ad8b2e37-f99b-455e-83b8-f280c32fbd89.png)
 
 
 Itens obrigatórios:
