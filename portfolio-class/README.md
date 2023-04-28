@@ -1,5 +1,6 @@
 Exercício
 Construir uma página baseada no protótipo:
+
 ![prototipo-portfolio](https://user-images.githubusercontent.com/66336900/235182399-133ff598-41c9-4a68-a88d-dbc21a098f4d.png)
 
 
