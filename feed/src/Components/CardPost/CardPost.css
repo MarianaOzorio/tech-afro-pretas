@@ -16,7 +16,6 @@
 }
 
 .postTxtButtonContainer {
-    display: flex;
     flex-direction: column;
 }
 
