@@ -1,8 +1,11 @@
 import './CardInfo.css';
 
-function CardInfo(){
+function CardInfo(info){
     return(
-        <div></div>
+        <div className='card'>
+            <p>{info.number}</p>
+            <p>{info.txt}</p>
+        </div>
     )
 };
 
