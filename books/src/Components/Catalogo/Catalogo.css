@@ -1,0 +1,12 @@
+.catalogo {
+    width: 636px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.livroAvaliacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 6px;
+}
