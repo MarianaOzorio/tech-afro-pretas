@@ -1,0 +1,7 @@
+.avaliacao {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    color: #f8cc07;
+    margin: 0.5em 0 0.5em 0;
+}
