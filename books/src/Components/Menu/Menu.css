@@ -1,0 +1,8 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu Button {
+    margin-bottom: 1.5em;
+}
