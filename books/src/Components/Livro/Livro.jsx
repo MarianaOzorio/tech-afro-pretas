@@ -1,8 +1,10 @@
 import './Livro.css';
 
-function Livro(){
+function Livro(book){
     return(
-        <div></div>
+        <div className='bookCover'>
+            <img src={book.cover} alt="capa do livro" />
+        </div>
     )
 };
 
