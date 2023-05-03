@@ -3,26 +3,35 @@ import './Menu.css';
 import Button from '../Button/Button';
 
 import { AiOutlineHeart, AiOutlineGift, AiOutlineStar, AiOutlineRead } from 'react-icons/ai';
+import { Link } from 'react-router-dom';
 
 function Menu(){
     return(
         <div className='menu'>
-            <Button
+            <Link className='removeStyle' to="/Favoritos">
+                <Button
                 icon={ <AiOutlineHeart /> }
                 txt='Favoritos'
-            /> 
-            <Button
+                />
+            </Link>
+            <Link className='removeStyle' to="/Desejados">
+                <Button
                 icon={ <AiOutlineGift /> }
                 txt='Desejados'
-            /> 
-            <Button
+                />
+            </Link>
+            <Link className='removeStyle' to="/Avaliados">
+                <Button
                 icon={ <AiOutlineStar /> }
                 txt='Avaliados'
-            /> 
-            <Button
+                />
+            </Link>
+            <Link className='removeStyle' to="/Resenhas">
+                <Button
                 icon={ <AiOutlineRead /> }
                 txt='Resenhas'
-            />    
+                />
+            </Link>
         </div>
     )
 };
