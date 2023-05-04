@@ -1,4 +1,4 @@
-button {
+.primaryButton {
     width: 100%;
     background-color: #ffe4c4;
     border: none;
@@ -10,6 +10,6 @@ button {
     justify-content: center;
 }
 
-button:hover {
+.primaryButton:hover {
     background-color: #f7d6ae;
 }

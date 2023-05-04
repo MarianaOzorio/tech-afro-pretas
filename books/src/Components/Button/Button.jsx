@@ -2,7 +2,7 @@ import './Button.css';
 
 function Button(button){
     return(
-        <button>
+        <button className='primaryButton'>
             {button.icon} &nbsp; {button.txt}
         </button>
     )
