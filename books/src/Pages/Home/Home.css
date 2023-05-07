@@ -9,6 +9,10 @@
     margin-bottom: 2em;
 }
 
+.avaliacoesContainer div {
+    max-width: 88%;
+}
+
 h1 {
     font-style: italic;
     color: #000;

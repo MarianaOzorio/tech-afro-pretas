@@ -1,18 +1,6 @@
-header {
-    width: 50%;
-    min-height: 12vh;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1em 0;
-    margin: auto;
-}
-
 .photoName {
     display: flex;
     flex-direction: row;
-    margin-left: 4em;
 }
 
 .photoName img {
@@ -25,10 +13,4 @@ header {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 2em;
     margin-left: 0.8em;
-}
-
-.infoCards {
-    display: flex;
-    flex-direction: row;
-    margin-right: 4em; 
 }
